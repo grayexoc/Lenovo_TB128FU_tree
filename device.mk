@@ -43,8 +43,6 @@ PRODUCT_COPY_FILES += \
 # HIDL
 PRODUCT_PACKAGES += \
     bootctrl.bengal
-    qcom_decrypt \
-    qcom_decrypt_fbe
         
 PRODUCT_PACKAGES += \
     otapreopt_script \
