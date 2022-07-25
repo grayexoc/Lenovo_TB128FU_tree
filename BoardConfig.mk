@@ -7,6 +7,8 @@
 
 DEVICE_PATH := device/lenovo/TB128FU
 
+TARGET_SUPPORTS_64_BIT_APPS := false
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
