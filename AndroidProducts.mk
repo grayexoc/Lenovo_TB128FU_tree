@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_TB128FU.mk
+    $(LOCAL_DIR)/twrp_TB128FU.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_TB128FU-user \
-    omni_TB128FU-userdebug \
-    omni_TB128FU-eng
+    twrp_TB128FU-user \
+    twrp_TB128FU-userdebug \
+    twrp_TB128FU-eng
